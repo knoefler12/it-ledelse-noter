@@ -88,6 +88,8 @@ Det klassiske perspektiv indeholder fire kerneelementer (s. 697-699, figur 1):
 > [!figure] Figur 1 - *A Representation of the Sociotechnical Perspective in IS* (s. 698)
 > Figuren er god at indsætte her. Den viser den tekniske og sociale komponent som gensidigt interagerende og forbundet gennem *fit*, harmoni og *joint optimization*. Samspillet forbindes med både instrumentelle og humanistiske mål.
 
+![[Sarker-2019-Figure-1-Sociotechnical-Perspective.png]]
+
 > [!important] Teknologien alene forklarer ikke resultatet
 > Hverken teknologi eller menneskelig aktivitet har forrang. Det afgørende analyseobjekt er, hvordan de to komponenter forbindes og gensidigt former praksis (s. 697-699).
 
@@ -140,6 +142,10 @@ To forfattere udviklede og anvendte kodningen. De sammenlignede vurderinger i fl
 > [!figure] Metodefigurer, som kan indsættes
 > **Tabel A1, s. A3** viser det samlede kodningsskema. **Tabel A2, s. A4** definerer de seks forskningstyper og giver konkrete artikel-eksempler. Tabel A1 er bedst til metodeforklaring; tabel A2 er bedst til at forstå grænserne mellem typerne.
 
+![[Sarker-2019-Table-A1-Coding-Scheme.png]]
+
+![[Sarker-2019-Table-A2-Six-Categories.png]]
+
 ## Seks måder at forbinde det sociale og tekniske på
 
 Reviewet resulterer i seks typer (s. 702-704, figur 2; appendix A4, tabel A2):
@@ -169,6 +175,8 @@ Reviewet resulterer i seks typer (s. 702-704, figur 2; appendix A4, tabel A2):
 
 > [!figure] Figur 2 - *The Sociotechnical Perspective as Enacted in IS Research (2000-2016)* (s. 702)
 > Dette er artikelens vigtigste resultatfigur. Venstre del viser fordelingen på de seks typer: 56 %, 6 %, 3 %, 13 %, 15 % og 7 %. Højre del viser resultatfokus: 2 % humanistiske mål alene, 91 % instrumentelle mål alene og 7 % begge.
+
+![[Sarker-2019-Figure-2-Enacted-Perspective.png]]
 
 ## Tre observationer fra reviewet
 
@@ -240,6 +248,8 @@ Alle seks forskningstyper kan dermed være legitime. Problemet er ikke den enkel
 > [!figure] Figur 3 - *The Social-Technical Continuum* (s. 708)
 > Figuren viser et kontinuum fra stadigt mere sociocentrisk til stadigt mere teknocentrisk forskning. Midten har lige vægt, mens overgangszoner deles med sociale og tekniske referencediscipliner. Figuren er central for anbefaling 1.
 
+![[Sarker-2019-Figure-3-Social-Technical-Continuum.png]]
+
 > [!important] Et ror, ikke en spændetrøje
 > Forfatterne beskriver perspektivet som en retningsgiver for faget, ikke som en regel om, at alle artikler skal have samme opbygning eller vægte alle resultater lige meget (s. 712-713).
 
@@ -280,6 +290,8 @@ Synergien er ikke garanteret. Fremtidig forskning skal undersøge mekanismer, be
 
 > [!figure] Tabel 1 - *Recommendations and Implications* (s. 712)
 > Tabellen samler de tre anbefalinger og deres betydning for henholdsvis IS-forskere og tidsskrifter/institutter. Den er velegnet som sidste oversigtsbillede i noten.
+
+![[Sarker-2019-Table-1-Recommendations.png]]
 
 ## Konklusion
 

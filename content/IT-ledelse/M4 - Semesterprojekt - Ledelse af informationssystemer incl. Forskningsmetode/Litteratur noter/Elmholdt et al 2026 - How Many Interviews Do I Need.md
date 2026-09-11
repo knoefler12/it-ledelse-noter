@@ -138,6 +138,13 @@ Analysen forløb i tre stadier:
 > [!figure] Metodeoversigt - egen rekonstruktion (s. 6-9)
 > Dette er ikke en original figur i artiklen, men en kompakt gengivelse af udvælgelsen. Den er nyttig, hvis du skal forklare, hvordan forfatterne både laver en bred kortlægning og en dybere kvalitativ analyse.
 
+```mermaid
+flowchart LR
+    A["1.780 søgeresultater"] --> B["562 inkluderede studier"]
+    B --> C["60 transparente eksempler"]
+    C --> D["Kontrol af 20 studier"]
+```
+
 ### Syv metodiske parametre
 
 De 562 artikler blev sammenlignet på (s. 7-8):
@@ -173,8 +180,12 @@ Den meget store spredning består, selv når de mindste og største outliers fje
 > [!figure] Tabel 1 - *Summary of Interview Numbers* (s. 10)
 > Tabellen viser antal artikler, mean, median og standardafvigelse pr. år og tidsskrift. Den dokumenterer især store forskelle både mellem tidsskrifter og inden for samme tidsskrift.
 
+![[Elmholdt-2026-Table-1-Interview-Numbers.png]]
+
 > [!figure] Figur 1 - *Distribution of Number of Interviews 2010-2019* (s. 11)
 > Histogrammet viser, at studierne er koncentreret i de lavere intervaller, men har en lang højre hale med enkelte meget store interviewantal. Det forklarer, hvorfor mean på 60 ligger over medianen på 46.
+
+![[Elmholdt-2026-Figure-1-Interview-Distribution.png]]
 
 ### Svag tidsudvikling
 
@@ -182,6 +193,8 @@ Medianen steg fra 40 i 2010 til 61 i 2019. Figur 2 viser en marginal opadgående
 
 > [!figure] Figur 2 - *Development in Interview Numbers (2010-2019)* (s. 11)
 > Figuren sammenligner mean og median over tid samlet og for amerikanske og europæiske tidsskrifter. Brug den til at forstå, at en mulig vækst i antal ikke er det samme som en fælles standard.
+
+![[Elmholdt-2026-Figure-2-Interview-Development.png]]
 
 ## Interviewantal og metodiske valg
 
@@ -197,6 +210,8 @@ Tabel 2 viser ingen klare og højst svage relationer mellem interviewantal og de
 
 > [!figure] Tabel 2 - *Interview Numbers and Methodological Choices* (s. 13)
 > Dette er den vigtigste resultattabel, hvis du skal forklare, hvorfor metodeetiketten alene ikke kan afgøre sample size. Bemærk både mean, median og kolonnen uden outliers.
+
+![[Elmholdt-2026-Table-2-Methodological-Choices.png]]
 
 > [!important] Et fravær af sammenhæng kræver forsigtig fortolkning
 > Resultatet kan både betyde, at antal reelt løsriver sig fra metodologien, og at metodiske begrundelser er dårligt rapporteret. Artiklen undersøger publicerede metodeafsnit og har derfor ikke adgang til alle de faktiske beslutninger bag projekterne.
@@ -222,6 +237,8 @@ Frameworket rummer tre overordnede kategorier og ti konkrete moves:
 
 > [!figure] Tabel 3 - *Sampling Moves* (s. 14)
 > Artikelens centrale model. Tabellen samler de tre faser, deres formål, de ti moves og typiske handlinger. Dette er den vigtigste illustration at indsætte i noten.
+
+![[Elmholdt-2026-Table-3-Sampling-Moves.png]]
 
 ### Opening moves: Åbn undersøgelsen
 
@@ -280,12 +297,16 @@ Adgang, afslag, tid, finansiering og deadlines kan afslutte sampling. Forfattern
 > [!figure] Tabel 4 - *Detailing Sampling Moves Through Illustrative Examples* (s. 15-17)
 > Tabellen viser tekstuddrag fra publicerede studier for alle moves. Den er lang, men nyttig som eksempelkatalog, når du selv skal formulere metodeafsnittet.
 
+![[Elmholdt-2026-Table-4-Sampling-Examples.png]]
+
 ## Frameworket er heuristik - ikke en lineær tjekliste
 
 Opening, focusing og closing beskriver en overordnet bevægelse, men forskere kan vende tilbage til opening moves sent i processen eller pendle mellem focusing og closing. Forfatterne advarer mod at gøre frameworket til endnu en standardiseret template. Moves skal tilpasses forskningsspørgsmål, analytisk formål og epistemologisk position (s. 18 og 23-25).
 
 > [!figure] Tabel 5 - *Sampling Moves and Probing Questions* (s. 26)
 > Tabellen omsætter frameworket til spørgsmål for forskere, reviewers og editors. Den er den bedste illustration at bruge som kvalitetstjek af jeres eget projektarbejde.
+
+![[Elmholdt-2026-Table-5-Probing-Questions.png]]
 
 ## Hvorfor bliver sampling løsrevet fra metodologien?
 

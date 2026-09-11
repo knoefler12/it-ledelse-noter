@@ -106,6 +106,8 @@ Hardware og software er altså komponenter i et informationssystem. Selve system
 
 Eksempel: En enkelt stregkodescanning er data. Samlede salgstal pr. produkt, butik eller område er information, der kan bruges til lager- og salgsbeslutninger (s. 47, figur 1.3).
 
+![[Laudon-2022-Figure-1.3-Data-and-Information.png]]
+
 ### Informationssystemets fire aktiviteter
 
 1. **Input:** indsamler rå data fra organisationen eller omgivelserne.
@@ -114,6 +116,8 @@ Eksempel: En enkelt stregkodescanning er data. Samlede salgstal pr. produkt, but
 4. **Feedback:** sender output tilbage, så input eller behandling kan vurderes og korrigeres.
 
 Modellen fremgår på s. 47-48 og i figur 1.4. Kunder, leverandører, konkurrenter, ejere og myndigheder indgår som aktører i systemets omgivelser.
+
+![[Laudon-2022-Figure-1.4-Information-System-Functions.png]]
 
 ## Informationssystemets tre dimensioner (s. 48-52)
 
@@ -126,6 +130,8 @@ Laudon & Laudon kalder evnen til at forstå både de tekniske og ikke-tekniske d
 | **Teknologi** | Hardware, software, data management samt netværk og telekommunikation | Hvilken teknisk kapacitet og infrastruktur understøtter løsningen? |
 
 De tre dimensioner udgør tilsammen et informationssystem som en organisatorisk og ledelsesmæssig løsning på udfordringer i omgivelserne (s. 48-52, figur 1.5).
+
+![[Laudon-2022-Figure-1.5-IS-Dimensions.png]]
 
 ### Organisationsniveauer
 
@@ -160,6 +166,8 @@ Fra et forretningsperspektiv er et informationssystem et middel til at øge oms�
 Rå data får ikke automatisk værdi. De bevæger sig gennem værdiskabende aktiviteter:
 
 **Indsamling og lagring -> transformation i systemer -> distribution -> ledelsesaktiviteter -> forretningsværdi** (s. 54-55, figur 1.7).
+
+![[Laudon-2022-Figure-1.7-Business-Information-Value-Chain.png]]
 
 Ledelsesaktiviteterne omfatter blandt andet planlægning, koordinering, kontrol og beslutningstagning. Værdien vurderes derfor ud fra forbedringer i beslutninger, processer, performance og i sidste ende indtjening - ikke blot ud fra, om systemet teknisk fungerer (s. 54-55).
 
@@ -212,6 +220,8 @@ Den bedste organisatoriske performance opstår ifølge det sociotekniske perspek
 - Succes eller fiasko er sjældent udelukkende teknisk eller udelukkende adfærdsmæssig.
 
 Figur 1.10 viser dette som en gensidig tilpasning mellem **technology** og **organization** (s. 60).
+
+![[Laudon-2022-Figure-1.10-Sociotechnical-Perspective.png]]
 
 ## Kapitlets cases
 

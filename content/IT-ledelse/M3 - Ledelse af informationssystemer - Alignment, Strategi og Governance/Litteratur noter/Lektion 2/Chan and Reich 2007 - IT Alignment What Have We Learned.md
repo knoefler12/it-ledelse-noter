@@ -266,8 +266,12 @@ Kognitive kort kan bruges til at undersøge, om forretnings- og IT-ledere deler 
 > [!figure] Figur 1 - *The MIT90s Framework* (s. 303)
 > Modellen viser fem gensidigt afhængige organisatoriske elementer: **strategi, struktur, management processes, technology samt individuals & roles**. De befinder sig inden for en organisatorisk grænse og påvirkes af den eksterne teknologiske og socioøkonomiske omverden. Pointen er, at IT-ledet transformation kræver sammenhæng mellem alle fem elementer.
 
+![[Chan-Reich-2007-Figure-1-MIT90s.png]]
+
 > [!figure] Figur 2 - *The Henderson and Venkatraman Strategic Alignment Model* (SAM) (s. 304)
 > Artikelens mest centrale figur. Den kombinerer fire domæner: **business strategy**, **IT strategy**, **organizational infrastructure & processes** og **IS infrastructure & processes**. Den lodrette akse er **strategic fit** mellem ekstern og intern orientering; den vandrette akse er **functional integration** mellem forretning og IT. Modellen viser både, hvordan IT kan understøtte forretningen, og hvordan teknologi kan forme strategi.
+
+![[Chan-Reich-2007-Figure-2-SAM.png]]
 
 SAM's fire domæner kan udfoldes sådan:
 
@@ -285,6 +289,8 @@ Figuren skelner desuden mellem:
 
 > [!figure] Figur 3 - *The Baets Model* (s. 305)
 > Modellen viser en cirkulær alignment-proces mellem **business strategy**, **IT strategy**, **organizational infrastructures & processes** og **IS infrastructures & processes**. I modsætning til en snæver intern model placeres processen i en bredere kontekst med konkurrence, global IT-platform, organisatorisk forandring og HR samt IS-implementering. Baets udfordrer samtidig antagelsen om én klar, fælles og monolitisk forretningsstrategi.
+
+![[Chan-Reich-2007-Figure-3-Baets.png]]
 
 ## Antecedenter: Hvad skaber alignment?
 
@@ -321,6 +327,8 @@ Luftman m.fl. fordeler centrale enablers sådan (s. 306):
 
 > [!figure] Tabel 1 - *Critical Success Factors for Aligning IT Plans with Business Plans* (s. 306)
 > Tabellen fra Teo og Ang er et praktisk tjek af både ledelse, viden, planlægning, kommunikation og IT-leverance.
+
+![[Chan-Reich-2007-Table-1-Success-Factors.png]]
 
 De 12 faktorer er:
 
@@ -566,4 +574,3 @@ Når du analyserer en organisation, kan du bruge følgende rækkefølge:
 - [[Luftman 2004 - Managing Emerging Technologies]]
 - [[Muller et al 2024 - Digital Transformation Leadership Competencies]]
 - [[Sarker et al 2019 - The Sociotechnical Axis of Cohesion for the IS Discipline]]
-

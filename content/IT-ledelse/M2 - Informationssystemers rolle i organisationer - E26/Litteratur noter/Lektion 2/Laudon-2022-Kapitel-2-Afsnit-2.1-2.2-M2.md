@@ -230,7 +230,7 @@ Den canadiske kommune anvender digitale løsninger både til bedre drift og til 
 
 ### Figur 2.1 - Proces og afdelingsgrænser
 
-> [!example] Indsæt figur 2.1 fra s. 75 her.
+![[Laudon-2022-Figure-2.1-Order-Fulfillment.png]]
 
 Rektanglerne er aktiviteter, pilene forbinder aktiviteterne, og de vandrette **stiplede linjer adskiller funktionsområder**. De viser ikke svagt samarbejde. Følg især overdragelserne fra salg til regnskab og videre til produktion. Efter kreditgodkendelse er der både fakturering og produkt-/leveringsarbejde.
 
@@ -238,31 +238,31 @@ Rektanglerne er aktiviteter, pilene forbinder aktiviteterne, og de vandrette **s
 
 ### Figur 2.2 - TPS modtager, opdaterer og leverer data
 
-> [!example] Indsæt figur 2.2 fra s. 77 her.
+![[Laudon-2022-Figure-2.2-Payroll-TPS.png]]
 
 Medarbejderdata går ind i lønsystemet, som udveksler data med medarbejderdatabasen og leverer flere slags output. **Cylinderen er databasen**, og pilene viser dataudveksling og output. Rapporter er altså ikke kun noget, MIS kan producere; også et TPS kan have rapporter som output.
 
 ### Figur 2.3 - Fra transaktionsdata til ledelsesinformation
 
-> [!example] Indsæt figur 2.3 fra s. 78 her.
+![[Laudon-2022-Figure-2.3-TPS-to-MIS.png]]
 
 Læs fra venstre mod højre: TPS og deres filer, derefter MIS-data, dernæst MIS og til sidst rapporter/skærmvisninger til ledere. De stiplede pile viser overførsel af udvalgte transaktionsdata til MIS-delen. Billedteksten beskriver sammenfatning ved periodens afslutning; figuren viser derfor ikke nødvendigvis en konstant realtidsstrøm.
 
 ### Figur 2.4 - Læs en MIS-rapport
 
-> [!example] Indsæt figur 2.4 fra s. 79 her.
+![[Laudon-2022-Figure-2.4-Sample-MIS-Report.png]]
 
 Rapporten sammenholder realiseret og planlagt salg efter produkt og region. **Actual versus planned** er et forholdstal: 0,85 betyder cirka 85 % af planen; 1,05 betyder cirka 105 %. Det er ikke en vækstrate. Tallene opsummerer resultaterne, men forklarer ikke i sig selv, hvorfor en region ligger over eller under planen.
 
 ### Figur 2.5 - Data og analytiske modeller i et DSS
 
-> [!example] Indsæt figur 2.5 fra s. 80 her.
+![[Laudon-2022-Figure-2.5-Voyage-DSS.png]]
 
 Læs datakilderne til højre ind mod databasen med analytiske modeller og videre til brugerens computer og forespørgsler. Skibsdata, afstande, brændstof og havneomkostninger bruges til at undersøge handlemuligheder. Forskellen fra figur 2.4 er især modellernes rolle i at analysere scenarier.
 
 ### Figur 2.6 - Integration på tværs
 
-> [!example] Indsæt figur 2.6 fra s. 82 her.
+![[Laudon-2022-Figure-2.6-Enterprise-Application-Architecture.png]]
 
 De farvede lodrette felter viser funktionsområder. Pyramidens lag repræsenterer organisationens niveauer, mens systemer og processer går på tværs. De stiplede dobbeltpile er markeret **Processes**. SCM forbinder til leverandører og partnere, CRM til kunder og distributører, mens ERP og KMS også krydser interne funktioner.
 

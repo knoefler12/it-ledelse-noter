@@ -53,6 +53,8 @@ Relationen mellem organisation og teknologi er **tovejs**:
 
 Forholdet medieres af struktur, forretningsprocesser, politik, kultur, omgivelser og ledelsesbeslutninger (s. 111-112, figur 3.1). Det er derfor ikke muligt at forudsige en teknologis effekt ud fra teknologien alene.
 
+![[Laudon-2022-Figure-3.1-Organization-IS-Relationship.png]]
+
 ### To organisationsforståelser
 
 | Perspektiv | Organisationen forstås som | Hvad perspektivet fremhæver | Side |
@@ -74,6 +76,8 @@ Moderne organisationer har arbejdsdeling, specialisering, hierarki, regler og et
 **Routines** eller standard operating procedures er præcise regler og praksisser udviklet til forventelige situationer. Når medarbejderne lærer dem, kan organisationen arbejde mere effektivt og reducere omkostninger (s. 114).
 
 Sammenhængen er (s. 114-115, figur 3.4):
+
+![[Laudon-2022-Figure-3.4-Routines-Processes-Firms.png]]
 
 **Individuelle rutiner -> forretningsprocesser -> organisationen.**
 
@@ -101,6 +105,8 @@ Teknologi, som kolliderer med kulturen, risikerer derfor at gå i stå, mens kul
 Organisationer er afhængige af omgivelserne for kapital, arbejdskraft, kunder og legitimitet og skal reagere på konkurrenter og myndighedskrav. De kan samtidig forsøge at påvirke omgivelserne gennem fx alliancer og markedsføring (s. 115-116).
 
 Informationssystemer understøtter **environmental scanning** og hjælper organisationer med både at opdage og reagere på forandringer (s. 116, figur 3.5).
+
+![[Laudon-2022-Figure-3.5-Environments-Organizations.png]]
 
 Omgivelser ændrer sig ofte hurtigere end organisationer. Rutiner, intern politik og kultur skaber organisatorisk inerti, som gør tilpasning vanskelig (s. 116).
 
@@ -162,6 +168,8 @@ Informationssystemer påvirker adgang til information og dermed også magt: hvem
 
 Fire faktorer skal ifølge modstandsmodellen ændres i sammenhæng (s. 121-122, figur 3.7):
 
+![[Laudon-2022-Figure-3.7-Organizational-Resistance.png]]
+
 1. **Technology**
 2. **Tasks**
 3. **Structure**
@@ -193,6 +201,8 @@ En virksomhed har konkurrencefordel, når den har særlige ressourcer eller anve
 ### Porter's five competitive forces
 
 Porters model analyserer virksomhedens strategiske position gennem fem kræfter (s. 123-125, figur 3.8):
+
+![[Laudon-2022-Figure-3.8-Porter-Forces.png]]
 
 | Kraft | Strategisk spørgsmål | Hvordan IT kan påvirke kraften |
 |---|---|---|
@@ -249,6 +259,8 @@ Aktiviteter, der direkte producerer og leverer værdi til kunden (s. 130):
 ### Support activities
 
 Aktiviteter, der gør de primære aktiviteter mulige (s. 130-133, figur 3.9):
+
+![[Laudon-2022-Figure-3.9-Value-Chain.png]]
 
 - organisationens infrastruktur og ledelse
 - human resources

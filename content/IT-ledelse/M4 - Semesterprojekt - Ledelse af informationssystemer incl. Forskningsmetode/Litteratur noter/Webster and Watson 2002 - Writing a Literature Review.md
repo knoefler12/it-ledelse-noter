@@ -163,6 +163,8 @@ Her bliver artiklerne **evidens under begreberne** frem for tekstens disposition
 > [!figure] Tabel 1 - *Approaches to Literature Reviews* (s. xvii)
 > Tabellen viser forskellen helt enkelt: concept-centric ordner teksten efter concept X og Y, mens author-centric ordner den efter author A og B. Tabellen er lille, men rummer artikelens vigtigste skriveprincip.
 
+![[Webster-Watson-2002-Table-1-Review-Approaches.png]]
+
 ## Concept matrix
 
 Webster og Watson anbefaler en **concept matrix**, hvor hver række er en artikel, og hver kolonne er et centralt koncept. Mens artiklerne læses, markeres det, hvilke begreber hver kilde behandler. Efter læsningen grupperes og præsenteres resultaterne efter koncepterne (s. xvii).
@@ -170,12 +172,16 @@ Webster og Watson anbefaler en **concept matrix**, hvor hver række er en artike
 > [!figure] Tabel 2 - *Concept Matrix* (s. xvii)
 > Rækkerne er artikler, kolonnerne er begreber, og krydser viser, hvilke artikler der bidrager til hvert begreb. Modellen hjælper med overgangen fra læsenoter til syntese.
 
+![[Webster-Watson-2002-Table-2-Concept-Matrix.png]]
+
 ### Udvidet concept matrix med analyseenhed
 
 Hvis det samme begreb har forskellig betydning på individ-, gruppe- og organisationsniveau, bør matricen udvides med analyseenhed. Det gør reviewet mere præcist og mindsker risikoen for at bruge et begreb uden for dets domæne (s. xvii).
 
 > [!figure] Tabel 3 - *Concept Matrix Augmented with Units of Analysis* (s. xvii)
 > Tabellen opdeler hvert koncept efter O = organizational, G = group og I = individual. Den er især relevant i IS-projekter, hvor fx “adoption”, “alignment” eller “performance” kan måles på flere niveauer.
+
+![[Webster-Watson-2002-Table-3-Concept-Matrix-Units.png]]
 
 ### Praktisk matrix til projektarbejdet
 

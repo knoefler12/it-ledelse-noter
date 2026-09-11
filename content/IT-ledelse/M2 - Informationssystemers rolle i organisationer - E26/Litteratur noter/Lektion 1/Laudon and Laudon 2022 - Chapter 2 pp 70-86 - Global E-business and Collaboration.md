@@ -69,6 +69,8 @@ Processernes kvalitet har direkte betydning for organisationens performance:
 
 Ordreopfyldelse ser umiddelbart enkel ud, men kræver koordinering mellem salg, regnskab, produktion/lager, logistik og kunden (s. 74-75, figur 2.1):
 
+![[Laudon-2022-Figure-2.1-Order-Fulfillment.png]]
+
 1. Salg modtager ordren.
 2. Regnskab kontrollerer kredit eller betaling.
 3. Produktion/lager fremskaffer varen.
@@ -111,6 +113,8 @@ TPS udfører og registrerer de daglige transaktioner, som er nødvendige for dri
 De skal kunne besvare rutinespørgsmål hurtigt og med aktuelle, let tilgængelige og præcise data. Opgaver, ressourcer og beslutningsregler er typisk fastlagt på forhånd (s. 76).
 
 Et løn-TPS modtager eksempelvis tidsregistrering, opdaterer medarbejderdatabasen og producerer lønsedler, ledelsesrapporter samt data til regnskab, HR og myndigheder (s. 76-77, figur 2.2).
+
+![[Laudon-2022-Figure-2.2-Payroll-TPS.png]]
 
 > [!important] Driftskritisk system
 > TPS er ofte så centralt, at få timers nedbrud kan true virksomheden eller dens partnere. Flyreservationer og UPS' pakkesporing bruges som eksempler (s. 77).

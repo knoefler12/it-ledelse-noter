@@ -305,49 +305,49 @@ Alle **10 nummererede figurer** og kapitlets tabel er med nedenfor. Forklaringer
 
 ### Figur 9.1 - ERP-arkitektur
 
-> [!example] Indsæt figur 9.1 her - s. 372 / PDF 373
+![[Laudon-2022-Figure-9.1-Enterprise-Systems.png]]
 
 Cylinderen i midten er den fælles database. Afdelingerne omkring den bruger og opdaterer data gennem deres funktioner. Pilene viser udveksling med databasen. **Pointen er fælles information på tværs af afdelinger**, ikke fire uafhængige databaser.
 
 ### Tabel 9.1 - Processer i ERP
 
-> [!example] Indsæt tabel 9.1 her - s. 373 / PDF 374
+![[Laudon-2022-Table-9.1-Business-Processes.png]]
 
 Brug tabellen til at gå fra systemnavnet “ERP” til faktiske arbejdsopgaver. Vælg fx en salgsordre, og forklar, hvorfor både salg, lager og regnskab berøres.
 
 ### Figur 9.2 - Forsyningskædens led
 
-> [!example] Indsæt figur 9.2 her - s. 375 / PDF 376
+![[Laudon-2022-Figure-9.2-Nike-Supply-Chain.png]]
 
 Nike er fokusvirksomhed. Til venstre ligger leverandører i flere led; til højre ligger distribution og kunder. Dobbeltpilene understreger forbindelser og informationsudveksling i begge retninger. Figuren er en forenkling af et større netværk.
 
 ### Figur 9.3 - Forstærkning af udsving
 
-> [!example] Indsæt figur 9.3 her - s. 377 / PDF 378
+![[Laudon-2022-Figure-9.3-Bullwhip-Effect.png]]
 
 Følg udsvingene fra kunderne til højre tilbage mod leverandørerne til venstre: Udsvingene bliver større upstream. De tegnede kurver illustrerer en mekanisme; de er ikke en graf med dokumenterede procenttal. **Større udsving er ikke det samme som vedvarende vækst i efterspørgslen.**
 
 ### Figur 9.4 - Push og pull
 
-> [!example] Indsæt figur 9.4 her - s. 379 / PDF 380
+![[Laudon-2022-Figure-9.4-Push-vs-Pull.png]]
 
 Øverst driver prognoser produktion og forsyning. Nederst går signalet fra kundens behov tilbage gennem kæden. Pilretningen i pull skal læses som det udløsende ordre-/efterspørgselssignal, ikke som den fysiske leveringsretning.
 
 ### Figur 9.5 - Samtidig koordinering
 
-> [!example] Indsæt figur 9.5 her - s. 380 / PDF 381
+![[Laudon-2022-Figure-9.5-Internet-Supply-Chain.png]]
 
 Figuren viser et netværk med flere forbindelser mellem producenter, leverandører, distributører, kunder og logistikaktører. De stiplede dobbeltpile viser kommunikation og informationsudveksling. **Stiplingen betyder ikke svagt samarbejde.** Pointen er, at information ikke kun behøver gå sekventielt gennem naboleddene.
 
 ### Figur 9.6 - Kunden i centrum
 
-> [!example] Indsæt figur 9.6 her - s. 382 / PDF 383
+![[Laudon-2022-Figure-9.6-CRM.png]]
 
 Kunden står i centrum af salg, service og marketing. Det er en begrebsoversigt: De tre sektorers størrelse viser ikke procentandele eller en bestemt prioritering.
 
 ### Figur 9.7 - Kampagnerespons
 
-> [!example] Indsæt figur 9.7 her - s. 384 / PDF 385
+![[Laudon-2022-Figure-9.7-CRM-Marketing.png]]
 
 Cirkeldiagrammet fordeler kampagnerespons mellem kontaktkanaler. **Andel af samlet respons er ikke det samme som konverteringsrate for kanalen.**
 
@@ -355,13 +355,13 @@ Egen analytisk pointe: En kanal kan give mange svar, fordi virksomheden har kont
 
 ### Figur 9.8 - CRM-funktioner
 
-> [!example] Indsæt figur 9.8 her - s. 384 / PDF 385
+![[Laudon-2022-Figure-9.8-CRM-Capabilities.png]]
 
 Fælles kundedata forbindes med funktioner inden for salg, marketing og service. Hvert område har både operationelle funktioner og analyse. Figuren er en **funktionsoversigt**, ikke en obligatorisk tidsrækkefølge for arbejdsopgaver.
 
 ### Figur 9.9 - Serviceproces og kundeloyalitet
 
-> [!example] Indsæt figur 9.9 her - s. 385 / PDF 386
+![[Laudon-2022-Figure-9.9-Customer-Loyalty-Map.png]]
 
 Rektangler er aktiviteter; diamanter er beslutningspunkter; cylinderen er en database. Den stiplede forbindelse til databasen angiver adgang til kundeoplysninger.
 
@@ -369,7 +369,7 @@ Efter modtagelse af en servicehenvendelse undersøges kundeinformationen. Tilgæ
 
 ### Figur 9.10 - Fra data til analyse
 
-> [!example] Indsæt figur 9.10 her - s. 386 / PDF 387
+![[Laudon-2022-Figure-9.10-Analytical-CRM.png]]
 
 Datakilder til venstre samles i et data warehouse eller en analytisk platform. OLAP og data mining bruges til analyser, der giver fx kundesegmenter, kundeprofiler og viden om frafald. Skeln mellem **datakilder**, **analyseværktøjer** og **analysens resultater**.
 

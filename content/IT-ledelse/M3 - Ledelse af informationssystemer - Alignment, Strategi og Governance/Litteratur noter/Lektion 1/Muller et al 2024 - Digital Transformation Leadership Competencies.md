@@ -82,6 +82,8 @@ Modellen er inspireret af [[Competing Values Framework]] og bruger to akser:
 | **Fleksibilitet** | **Organizer** - aktiv stakeholderinvolvering | **Challenger** - markedsinnovation |
 | **Stabilitet** | **Bricoleur** - operationel effektivitet | **Competitor** - konkurrencemæssig position |
 
+![[Muller-2024-Figure-1-Competency-Portfolios.png]]
+
 Koblingen til de oprindelige kulturarketyper er:
 
 - Organizer ↔ **Clan**
@@ -214,6 +216,8 @@ Competitoren bruger data og digitale teknologier til at forbedre og differentier
 ## Metode (s. 3-5)
 
 Artiklen er et systematisk litteraturreview med efterfølgende teoriudvikling:
+
+![[Muller-2024-Figure-2-Literature-Selection.png]]
 
 - Web of Science og Scopus blev søgt med kombinationer af digital transformation, digital innovation, leadership, competencies og skills.
 - 1.119 publikationer blev fundet; 67 opfyldte kriterierne.

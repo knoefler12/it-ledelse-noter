@@ -235,8 +235,7 @@ Udviklingen fortsætter: Organisationen opretter **RSA-gruppen** til at analyser
 
 [[23043493(1).pdf#page=9|Åbn figur 1 i PDF'en]]
 
-> [!example] Plads til figur 1
-> Indsæt dit billede af figur 1 her.
+![[Leonardi-2011-Figure-1-Imbrication-Routines-Technologies.png]]
 
 - **M₁ og M₂:** Materiel agency i forskellige led af forløbet.
 - **H₁ og H₂:** Menneskelig agency i forskellige led af forløbet.
@@ -252,8 +251,7 @@ Udviklingen fortsætter: Organisationen opretter **RSA-gruppen** til at analyser
 
 [[23043493(1).pdf#page=13|Åbn figur 2 i PDF'en]]
 
-> [!example] Plads til figur 2
-> Indsæt dit billede af figur 2 her.
+![[Leonardi-2011-Figure-2-Imbrication-Changes.png]]
 
 | Symbol | Betydning i netop denne figur |
 |---|---|
