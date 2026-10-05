@@ -71,3 +71,9 @@ forventningsafstemmning. virksomheden åbner døren for hvad vi har brug for
 		* hvor giver ai reel værdi. og hvor dan styres data rosiko og afhængighed
 	* digital thread/closed loop
 		* fra odre og engineering til kvalitet, shopfloor og læring tilbage i processen
+
+
+læs om kpi begrebet, er det udelukkende et ledelses værktøj eller kan det bruges tættere på hos produktionsmedarbejderne
+
+
+kig på keyperformance 

@@ -104,12 +104,12 @@ Artiklen udfolder fire former for hastighed: (s. 476–477)
 
 Forfatterne peger på fire kilder:
 
-| Kilde | Forklaring | Egen illustration |
-| --- | --- | --- |
-| **Værdi fra information** | Information kan forbedre tilbud og beslutninger eller være en del af produktet. | En tjeneste giver brugeren bedre overblik og anbefalinger. |
-| **Multisidede forretningsmodeller** | Flere grupper indgår; én kan betale for adgang til en anden. | Brugere får en gratis tjeneste, mens annoncører betaler. |
-| **Koordinerede forretningsmodeller i netværk** | Flere virksomheder skaber og fordeler værdi sammen. | Spiludviklere, udgivere og en platform koordinerer tilbud og betaling. |
-| **Kontrol over digital branchearkitektur** | En strategisk position kan give indflydelse på adgang og værdifordeling. | Den, der kontrollerer en vigtig distributionskanal, kan tage betaling for adgang. |
+| Kilde                                          | Forklaring                                                                      | Egen illustration                                                                 |
+| ---------------------------------------------- | ------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
+| **Værdi fra information**                      | Information kan forbedre tilbud og beslutninger eller være en del af produktet. | En tjeneste giver brugeren bedre overblik og anbefalinger.                        |
+| **Multisidede forretningsmodeller**            | Flere grupper indgår; én kan betale for adgang til en anden.                    | Brugere får en gratis tjeneste, mens annoncører betaler.                          |
+| **Koordinerede forretningsmodeller i netværk** | Flere virksomheder skaber og fordeler værdi sammen.                             | Spiludviklere, udgivere og en platform koordinerer tilbud og betaling.            |
+| **Kontrol over digital branchearkitektur**     | En strategisk position kan give indflydelse på adgang og værdifordeling.        | Den, der kontrollerer en vigtig distributionskanal, kan tage betaling for adgang. |
 
 **Multisided** og **multilayered** hænger sammen, men er ikke helt det samme. Multisided handler om flere deltagergrupper. Multilayered fremhæver, at en virksomhed kan tilbyde noget gratis i ét lag og tjene penge i et andet. Android og reklameindtjening bruges som eksempel i teksten. (s. 478)
 

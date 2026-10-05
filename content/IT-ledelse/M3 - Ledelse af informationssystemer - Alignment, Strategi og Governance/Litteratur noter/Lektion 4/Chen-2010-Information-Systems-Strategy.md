@@ -49,11 +49,11 @@ Litteraturgennemgangen identificerer tre **conceptions**: grundlæggende antagel
 
 *Tabel 1, s. 239. Tabellen sammenligner definition, udvikling, forventet betydning og alignment.*
 
-| Forståelse | Kernespørgsmål | Styrke | Udfordring |
-| --- | --- | --- | --- |
-| **I: IS som støtte til forretningsstrategien** | Hvordan hjælper IS med at realisere en valgt forretningsstrategi? | Tydelig kobling til forretningsmål. | Gør IS afhængig af en allerede fastlagt retning og kan overse nye muligheder. |
-| **II: IS som it-funktionens masterplan** | Hvilke mennesker, systemer, processer og budgetter behøver it-funktionen? | Konkret grundlag for ressourceprioritering og drift. | Kan blive isoleret fra organisationens øvrige mål. |
-| **III: IS som fælles syn på IS' rolle** | Hvilken rolle skal IS spille i organisationen? | Forbinder forretning og IS gennem en fælles forståelse. | Kan blive for ledelsescentreret og overse initiativer længere nede i organisationen. |
+| Forståelse                                     | Kernespørgsmål                                                            | Styrke                                                  | Udfordring                                                                           |
+| ---------------------------------------------- | ------------------------------------------------------------------------- | ------------------------------------------------------- | ------------------------------------------------------------------------------------ |
+| **I: IS som støtte til forretningsstrategien** | Hvordan hjælper IS med at realisere en valgt forretningsstrategi?         | Tydelig kobling til forretningsmål.                     | Gør IS afhængig af en allerede fastlagt retning og kan overse nye muligheder.        |
+| **II: IS som it-funktionens masterplan**       | Hvilke mennesker, systemer, processer og budgetter behøver it-funktionen? | Konkret grundlag for ressourceprioritering og drift.    | Kan blive isoleret fra organisationens øvrige mål.                                   |
+| **III: IS som fælles syn på IS' rolle**        | Hvilken rolle skal IS spille i organisationen?                            | Forbinder forretning og IS gennem en fælles forståelse. | Kan blive for ledelsescentreret og overse initiativer længere nede i organisationen. |
 
 Forståelse I er **business-centric**, II **IS-centric** og III **organization-centric**. Forfatterne foretrækker III som grundlag for videre teoriudvikling. De afviser ikke, at de andre perspektiver kan være nyttige. (s. 240–243)
 
